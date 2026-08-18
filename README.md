@@ -25,16 +25,6 @@
       <p> The Pattern Programs Project is made using a  C programming language. The project uses loops and nested loops to create different patterns of stars and numbers.</p>
       <p> Based on the selected pattern, the program prints the required output on the screen. Different patterns are created by changing the loop conditions and the way characters are printed. </p>
     </hr>
-      <li> <h2>Screenshots</h2>  </li>
-    </hr>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\Pattern1.png"> Pattern 1 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern2.png"> Pattern 2 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern3.png"> Pattern 3 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern4.png"> Pattern 4 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern5.png"> Pattern 5 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern6.png"> Pattern 6 </a> <br/>
-      <a href="C:\Users\Nidhi\OneDrive\Pictures\Screenshots\pattern7.png"> Pattern 7 </a> <br/>
-    </hr>
     </ul>
     <h2 center;> THANK YOU...! </h2>
       
